@@ -24,10 +24,6 @@
   "projects": {
     "main": {
       "tags": []
-    },
-    "main-e2e": {
-      "tags": [],
-      "implicitDependencies": ["main"]
     }
   }
 }
